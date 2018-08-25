@@ -32,7 +32,7 @@
             "title": "Macif",
             "prestataire": "Assurance maison",
             "date": "09/10/18",
-            "tarif": "10,67"
+            "tarif": "10.67"
         }, {
             "id": 6,
             "title": "impots",
@@ -44,7 +44,7 @@
     "solde": [
         {
             "id": 1,
-            "compte": "245,23"
+            "compte": "245.23"
         }
     ]
 }
