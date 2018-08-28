@@ -1,50 +1,47 @@
 {
-    "fixe": [
-        {
-            "id": 1,
-            "title": "EDF",
-            "prestataire": "Electricité",
-            "date": "09/10/18",
-            "tarif": "55"
-        },
-        {
-            "id": 2,
-            "title": "Orange",
-            "prestataire": "Internet",
-            "date": "09/10/18",
-            "tarif": "40"
-        },
-        {
-            "id": 3,
-            "title": "Cotisation banque",
-            "prestataire": "Caisse d'epargne",
-            "date": "09/10/18",
-            "tarif": "20"
-        },
-        {
-            "id": 4,
-            "title": "Loyer",
-            "prestataire": "Carre immo",
-            "date": "09/10/18",
-            "tarif": "500"
-        }, {
-            "id": 5,
-            "title": "Macif",
-            "prestataire": "Assurance maison",
-            "date": "09/10/18",
-            "tarif": "10.67"
-        }, {
-            "id": 6,
-            "title": "impots",
-            "prestataire": "Gouv",
-            "date": "09/10/18",
-            "tarif": "40"
-        }
-    ],
-    "solde": [
-        {
-            "id": 1,
-            "compte": "245.23"
-        }
-    ]
+  "fixe": [{
+      "id": 1,
+      "title": "EDF",
+      "prestataire": "Electricité",
+      "date": "09/10/18",
+      "tarif": 55
+    },
+    {
+      "id": 2,
+      "title": "Orange",
+      "prestataire": "Internet",
+      "date": "09/10/18",
+      "tarif": 40
+    },
+    {
+      "id": 3,
+      "title": "Cotisation banque",
+      "prestataire": "Caisse d'epargne",
+      "date": "09/10/18",
+      "tarif": 20
+    },
+    {
+      "id": 4,
+      "title": "Loyer",
+      "prestataire": "Carre immo",
+      "date": "09/10/18",
+      "tarif": 500
+    }, {
+      "id": 5,
+      "title": "Macif",
+      "prestataire": "Assurance maison",
+      "date": "09/10/18",
+      "tarif": 10.67
+    }, {
+      "id": 6,
+      "title": "impots",
+      "prestataire": "Gouv",
+      "date": "09/10/18",
+      "tarif": 40
+    }
+  ],
+  "solde": [{
+    "id": 1,
+    "compte": 245.23
+  }]
 }
